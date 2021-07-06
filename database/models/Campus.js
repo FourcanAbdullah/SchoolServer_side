@@ -8,9 +8,20 @@ const Campus = db.define("campus", {
     allowNull: false
   },
 
-  description: {
+  imageUrl: {
     type: Sequelize.STRING,
-  }
+    defaultValue: "https://www.cappex.com/sites/default/files/images/hero/college/190150_hero.jpg"
+  },
+
+  address: {
+    type: Sequelize.STRING,
+    allowNull: false
+  },
+
+  description: {
+    type: Sequelize.TEXT,
+  },
+
 
 });
 
