@@ -13,4 +13,4 @@ Project by:
 - Fourcan Abdullah, Github UserName: FourcanAbdullah
 - Saiman Tamang, Github UserName: saimantmg01
 
-Our [Client Repo](https://github.com/FourcanAbdullah/SchoolClient_side)
+Go to our [Client Repo](https://github.com/FourcanAbdullah/SchoolClient_side)
